@@ -19,7 +19,7 @@ It leverages Express.js for the backend framework, Node.js as the runtime enviro
 - **Additional Tools**: Cloudinary for storage, mapbox, passport
 
 ## Installation
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/anushkakhatri04/WanderVerse`
 2. Install dependencies: `npm install`
 3. Set environment variables (if necessary).
 4. Run the application: `node index.js`
